@@ -19,5 +19,5 @@ void print_array(int *a, int n)
 		else
 			printf("%d", a[x]);
 	}
-	putchar(\n);
+	putchar(98);
 }
