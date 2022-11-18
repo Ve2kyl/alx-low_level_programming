@@ -1,5 +1,4 @@
 0x10-variadic_functions
-
 Variaidic function project
 
 Task 0: A function that returns the sum of all its parameters.
